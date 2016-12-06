@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+.vs/
+testapp.VC.db
+testapp.vcxproj.filters
+testapp.vcxproj.user
+advent2016.VC.db
